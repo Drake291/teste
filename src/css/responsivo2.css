@@ -1,0 +1,524 @@
+@media(max-width:1368px) {
+   
+    .topo{
+        width: 100%;
+        height: 700px;
+        background-size: cover;
+    }
+    .conteiner2{ 
+    position: relative;
+    left: 100px;
+    }
+
+
+
+    
+}
+@media (max-width: 992px){
+
+    .topo .botao{
+        top:-280px;
+        left: 17px;
+    }
+    .topo{
+    width: 100%;
+    height: 620px;
+    background-size: cover;
+    }
+    .container1 img{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: 440px;
+    height: 572px;
+       
+    }
+    .container1 h2{
+    position: relative;
+    top: 200px;
+    margin:50px;
+    }
+    .conteudo-curso{
+        height: 680px;
+    }
+    .conteudo-curso .copy{
+    width: 420px;
+    left: 50px;
+    top: 20px;
+    }
+    .conteudo-curso .copy p, 
+    .copy2 .copy p{
+    color: #ffffff;
+    margin: 10px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    }
+    .copy2{
+    height: 680px;
+    }     
+    .copy2 .copy{
+    position: relative;
+    width: 520px;
+    left: 50px;
+    top: 220px;
+    }
+
+    .copy2 .botao{
+    left: 20px;
+    }
+
+    .whats{
+        right: 120px;
+    }
+
+    
+
+    .encontrar{
+    height: 580px;
+    }
+
+    
+    .conteiner2{ 
+    position: relative;
+    left: 80px;
+    display: grid;
+    grid-template-columns: 320px 320px 320px;
+    }
+    .conteiner2 img{
+    width: 220px;
+    height: 220px;
+    }
+    .container1{
+    height: 800px;
+    }
+
+   .bonus{
+    height: 600px;
+   }
+   .relatos{
+    height: 680px;
+   }
+
+   .garantia img{
+    position: relative;
+    top: 120px;
+    width: 390px;
+    height: 390px;
+    left: 50px;
+    }
+
+    .garantia .central{
+    position: relative;
+    top: -290px;
+    left:500px;
+    width: 480px;
+    }
+
+
+    .sobre .duvidas details{
+    align-items: center;
+    width: 500px;
+    position: relative;
+    left: 200px;
+    top:50px;
+    color: #ffffff;
+    margin: 30px;
+    border-bottom: #BD8629 2px solid;
+    text-align: justify;  
+    }
+    .COPYRIGHT{
+    background: #000000;
+    height: 250px;
+    width: 100%;
+    }
+
+
+}
+
+@media (max-width: 850px){
+    .topo{
+    width: 100%;
+    height: 570px;
+    }
+    .container1{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    }
+    .topo .container1 img{
+    position: relative;
+    top: 10px;
+    width: 355px;
+    height: 565.5px;     
+    }
+    .topo .container1 h2{
+    margin: 10px;
+    left: 25px;
+    }
+
+    .whats{
+        right: 80px;
+    }
+
+    .topo .botao{
+        top: -320px;
+    }
+    .copy2{
+        height: 600px;
+    }
+    .conteiner2{
+        position: relative;
+        left: 30px;
+    }
+    .conteiner2 img{
+        width: 180px;
+        height: 180px;
+    }
+    .conteiner2{
+    grid-template-columns: 300px 300px 300px;
+    }
+    
+    .bonus{
+        height: 480px;
+    }
+    .garantia img{
+    position: relative;
+    top: 120px;
+    width: 320px;
+    height: 320px;
+    left: 50px;
+    }
+    
+    .garantia .central{
+    position: relative;
+    top: -290px;
+    left:440px;
+    width: 400px;
+    }
+    .garantia{
+        height: 600px;
+
+    }
+}
+
+@media (max-width: 800px){
+
+    .topo{
+    height: 500px;
+    background-size:cover;
+
+    }
+    .topo .container1 h2{
+    margin: 2px;
+    position: relative;
+    margin: 2px;
+    font-size: larger;
+    left: 20px;
+    }
+
+    .topo .botao{
+        top: -400px;
+        left: -10px;
+    }
+    .topo .container1 img{
+        position: relative;
+        top: 50px;
+        width: 325px;
+        height: 422.5px;    
+    }
+
+    .slider{
+        width: 700px;
+    }
+
+    .slides{
+        width: 500%;
+    }
+
+    .navegaçao-manual{
+        width: 700px;
+        position: relative;
+     }
+
+     .navegaçao-auto{
+        width: 700px;
+     }
+
+     .manual-btn:not(:last-child){
+        margin-right: 13px;
+     }
+
+     .navegaçao-auto div:not(:last-child){
+        margin-right: 13px;
+     }
+
+     .conteiner2{
+        position: relative;
+        left: 10px;
+    }
+
+    .garantia .central{
+        left: 300;
+        width: 360px;
+
+    }
+}
+
+@media (max-width: 768px){
+
+    .topo{
+        background-image:url(../img/tablet/topo.png);
+        height: 580px;
+        width: 100%;
+    }
+    .topo .container1{
+        grid-template-columns: 400px 380px;
+        
+    }
+    .topo .container1 .text{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    width: 400px;
+    }
+    .topo .container1  img{
+        position: relative;
+        left: 25px; 
+        width: 315px; 
+        height: 422.5px;
+    }
+    .encontrar{
+        height: 500px;
+    }
+    .conteiner2{
+        left: 35px;
+        grid-template-columns: auto auto auto;
+    }
+    .garantia .central{
+        left: 380px;
+    }
+    .realçe1{
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width: 750px) {
+
+    .topo .container1 img{
+        left: 20px;
+    }
+}
+@media (max-width: 720px){
+
+    .topo .container1{
+        grid-template-columns: 380px 305px;
+        gap: 14px;
+    }
+
+    .container1.img{
+        width: 305px;
+        height: 396.5px;
+    }
+
+    .topo .container1 .text{
+        left: 10px;
+    }
+
+    .conteudo-curso {
+        height: 590px;
+    }
+    .realçe1{
+        margin: 0;
+        font-size: 1.2em;
+    }
+    .copy{
+        position: relative;
+        top:-10px;
+    }
+    .copy p{
+        font-size: 15px;
+        margin: 5px;
+        padding: 5;
+    }
+    .sobre .duvidas details{
+
+        align-items: center;
+        width: 500px;
+        position: relative;
+        left: 100px;
+        top:50px;
+        color: #ffffff;
+        margin: 30px;
+        text-align: justify;  
+    }
+
+}
+ @media (max-width:420px){
+
+    .botao button{
+        font-size: small;
+        padding: 10px;
+    }
+
+    .copy2 .botao{
+        bottom: 20px;
+        left: 55px;
+    }
+
+    .topo .botao{
+        top: -580px;
+        left: -10px;
+    }
+
+    .topo{
+        height: 300px;
+    }
+
+    .whats{
+        position: fixed;
+        right: 72px;
+    }
+    .whats img{
+        width: 110px;
+
+    }
+
+    .topo .container1 h2{
+        font-size: small;
+        margin: 0px;
+        top: 90px;
+    }
+
+
+
+    
+    .topo .container1{
+        grid-template-columns: 220px auto;
+    }
+
+    .container1 h2{
+        top: 120px;
+        left: 10px;
+        font-size: small;
+    }
+
+
+    .topo .container1 img{
+        position: relative;
+        left: 20px;
+        top: 10px;
+        width: 150px;
+        height: 280px;
+    }
+
+    .copy2{
+        height: 400px;
+    }
+    .copy2 .copy{
+        position: relative;
+        top: 20px;
+        width: 350px;
+    }
+
+    .conteiner2{
+        left: 15px;
+        grid-template-columns: auto auto;
+    }
+    .encontrar{
+        background-image: url(../img/smartphone/encontrar.png);
+        height: 850px;
+    }
+
+    .bonus{
+        background-image:url(../img/smartphone/bonus.png);
+        height: 600px;
+    }
+    .encontrar .conteiner2 .meio{
+        position: relative;
+        left: 90px;
+    }
+
+    .conteudo-curso{
+        background-image: url(../img/smartphone/copy.png);
+        height: 700px;
+        width: 100%;
+    }
+
+    .conteudo-curso .texto h2{
+        margin: 0;
+    }
+    .conteudo-curso .copy,
+    .copy2 .copy{
+        margin: 0;
+        left: 0px;
+    }
+
+
+
+
+    .garantia{
+        display: block;
+        height: 600px;
+        width: 100%;
+    }
+
+    .garantia img{
+        position: relative;
+        top: 300px;
+        width: 250px;
+        height: 250px;
+        left: 5em;
+        right: 5em;
+    }
+
+    .garantia .central{
+        position: relative;
+        top: -250px;
+        left: 15px;
+        width: 390px;
+    }
+
+    .garantia .central p{
+        text-align: center;
+        font-size: 1.5rem;
+        margin: 0 auto;
+    }
+
+    .sobre{
+        height: 500px;
+        background-image: url(../img/smartphone/sobre.png);
+    }
+
+    .sobre .duvidas details{
+        position: relative;
+        left: 0;
+        margin: 15px auto;
+        width: 350px;
+    }
+
+
+    .slider{
+        width: 350px;
+    }
+
+    .slides{
+        width: 500%;
+    }
+
+    .navegaçao-manual{
+        width: 350px;
+        position: relative;
+     }
+
+     .navegaçao-auto{
+        width: 350px;
+     }
+
+     .manual-btn:not(:last-child){
+        margin-right: 5px;
+     }
+
+     .navegaçao-auto div:not(:last-child){
+        margin-right: 5px;
+     }
+
+ }
